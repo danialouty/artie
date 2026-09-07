@@ -12,21 +12,18 @@ Artie is a modern **Digital Art Marketplace UI/UX Design** where users can disco
 * Add artwork to wishlist
 * Purchase digital artwork
 * Simple checkout experience
-* Responsive desktop and mobile design
+* Responsive desktop design
 
 ## 🛠️ Designed With
 
 * **Figma**
 * UI/UX Design
 * Wireframing
-* Design Systems
-* Prototyping
-* Responsive Design
 
 ## 🎯 Core Pages
 
 1. **Home**
 2. **Artwork Details**
-3. **Checkout**
+3. **Cart**
 
 > A UI/UX design project focused on creating a clean, modern, and intuitive digital art marketplace experience.
